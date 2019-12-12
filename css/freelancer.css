@@ -165,7 +165,7 @@ a {
 }
 
 a:hover {
-  color: #ffffff;
+  color: #117964;
   text-decoration: underline;
 }
 
@@ -3982,6 +3982,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
+  color: dodgerblue;
   text-decoration: none;
 }
 
