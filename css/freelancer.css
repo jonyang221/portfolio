@@ -3982,7 +3982,6 @@ input[type="button"].btn-block {
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
-  color: dodgerblue;
   text-decoration: none;
 }
 
